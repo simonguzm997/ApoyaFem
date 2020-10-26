@@ -6,43 +6,43 @@
         "name": "Blusa Negra Mangas Largas",
         "description": "Blusa negra de mangas largas perfecta para toda velada",
         "price": 86.29,
-        "image": "/imgs/Tops/black long slives.jpg"
+        "image": "https://i.imgur.com/onwG0ob.jpg"
       },
       {
         "name": "Top Negro Con Tiras",
         "description": "Siente la frescura perfecta para el verano",
         "price": 21.7,
-        "image": "/imgs/Tops/black tops.jpg"
+        "image": "https://i.imgur.com/6n3zZhV.jpg"
       },
       {
         "name": "Top Azul ",
         "description": "Azul como el mar, fresco como el invierno",
         "price": 56.35,
-        "image": "/imgs/Tops/blue top.jpg"
+        "image": "https://i.imgur.com/mztdy4j.jpg"
       },
       {
         "name": "Top Gris ",
         "description": "Perfecto para estar comoda en casa",
         "price": 68.2,
-        "image": "/imgs/Tops/Gray top.jpg"
+        "image": "https://i.imgur.com/Kf9q4t2.jpg"
       },
       {
         "name": "Top Verde Mangas Largas",
         "description": "Calientito para cuando empieza el invierno",
         "price": 62.42,
-        "image": "/imgs/Tops/Green top.jpg"
+        "image": "https://i.imgur.com/5IsNGLd.jpg"
       },
       {
         "name": "Top rosa",
         "description": "Alegre para cualquier evento",
         "price": 55.35,
-        "image": "/imgs/Tops/pink top.jpg"
+        "image": "https://i.imgur.com/w5dF5yT.jpg"
       },
       {
         "name": "Top Rojo",
         "description": "Muestra la pasión de tu interior",
         "price": 36.62,
-        "image": "/imgs/Tops/Red top.jpg"
+        "image": "https://i.imgur.com/jMK7wWb.jpg"
       }
     ]
   },
@@ -53,43 +53,43 @@
         "name": "Vestido Azul y Rojo",
         "description": "Lo mejor de dos mundos",
         "price": 86.29,
-        "image": "/imgs/Vestidos/Azul y Rojo Vestido.jpg"
+        "image": "https://i.imgur.com/TJMa5OJ.jpg"
       },
       {
         "name": "Vestido Negro",
         "description": "Perfecto para que la noche sea tuya",
         "price": 21.7,
-        "image": "/imgs/Vestidos/black dress.jpg"
+        "image": "https://i.imgur.com/QgkRg9X.jpg"
       },
       {
         "name": "Tigre negro ",
         "description": "Salvaje y elegante",
         "price": 56.35,
-        "image": "/imgs/Vestidos/black tiger.jpg"
+        "image": "https://i.imgur.com/GB7tEO1.jpg"
       },
       {
         "name": "Puntos blancos y negros",
         "description": "Perfecto para cualquier cita",
         "price": 68.2,
-        "image": "/imgs/Vestidos/black white dots.jpg"
+        "image": "https://i.imgur.com/2OnVwYl.jpg"
       },
       {
         "name": "Vestido Blanco y Azul",
         "description": "Vestete como si fueras el cielo",
         "price": 62.42,
-        "image": "/imgs/Vestidos/Blue white dress.jpg"
+        "image": "https://i.imgur.com/xSFn9Ky.jpg"
       },
       {
         "name": "Vestido Gris cuadros",
         "description": "Perfectos una reunión o una fiesta",
         "price": 55.35,
-        "image": "/imgs/Vestidos/gray squares dress.jpg"
+        "image": "https://i.imgur.com/PWKjXJh.jpg"
       },
       {
         "name": "Vestido blanco",
         "description": "Perfectos para que todos vean tu pureza",
         "price": 36.62,
-        "image": "/imgs/Vestidos/white dress.jpg"
+        "image": "https://i.imgur.com/U84AHGk.jpg"
       }
     ]
   },
@@ -100,43 +100,43 @@
         "name": "Jeans Azul y Gris",
         "description": "Lo mejor de dos mundos",
         "price": 86.29,
-        "image": "/imgs/Jeans/Black and Gray Jeans.jpg"
+        "image": "https://i.imgur.com/g1hjMU3.jpg"
       },
       {
         "name": "Jean con Mariposas",
         "description": "Mariposas negras, tiernas pero no del todo",
         "price": 21.7,
-        "image": "/imgs/Jeans/Black Butterfly Jeans.jpg"
+        "image": "https://i.imgur.com/RfDOx7K.jpg"
       },
       {
         "name": "Jans Con Rotos ",
         "description": "Siente el aire fresco",
         "price": 56.35,
-        "image": "/imgs/Jeans/Blue Jean rotos.jpg"
+        "image": "https://i.imgur.com/uBgGdUH.jpg"
       },
       {
         "name": "Jeans con Mariposas",
         "description": "Expande tu alas y vuela",
         "price": 68.2,
-        "image": "/imgs/Jeans/Butterfly Jeans.jpg"
+        "image": "https://i.imgur.com/I690nMH.jpg"
       },
       {
         "name": "Jeans crema",
         "description": "Perfectos para cualquier evento",
         "price": 62.42,
-        "image": "/imgs/Jeans/Creme Jeans.jpg"
+        "image": "https://i.imgur.com/OXt6Lce.jpg"
       },
       {
         "name": "Jeans Grises",
         "description": "Perfectos para la fiesta",
         "price": 55.35,
-        "image": "/imgs/Jeans/Jean Gris.jpg"
+        "image": "https://i.imgur.com/FKYOrsN.jpg"
       },
       {
         "name": "Jean Negro",
         "description": "Camuflate en la noche",
         "price": 36.62,
-        "image": "/imgs/Jeans/Jean negro.jpg"
+        "image": "https://i.imgur.com/EHQsMOL.jpg"
       }
     ]
   },
@@ -147,43 +147,43 @@
         "name": "Jean Shorts Negro",
         "description": "Lo mejor de dos mundos",
         "price": 86.29,
-        "image": "/imgs/Shorts/black Jean short.jpg"
+        "image": "https://i.imgur.com/Nh4TItK.jpg"
       },
       {
         "name": "Short con flores",
         "description": "Flores negras, tiernas pero no del todo",
         "price": 21.7,
-        "image": "/imgs/Shorts/flower short.jpg"
+        "image": "https://i.imgur.com/oUckx34.jpg"
       },
       {
         "name": "Jean Shorts Azul ",
         "description": "Lo mejor de dos mundos",
         "price": 56.35,
-        "image": "/imgs/Shorts/Jean short.jpg"
+        "image": "https://i.imgur.com/YGoSzwq.jpg"
       },
       {
         "name": "Short Con Lineas",
         "description": "Entre casual y serio",
         "price": 68.2,
-        "image": "/imgs/Shorts/Line shorts.jpg"
+        "image": "https://i.imgur.com/z8OHxYb.jpg"
       },
       {
         "name": "Shorts deportivos Gris",
         "description": "Perfectos para hacer ejecicio ",
         "price": 62.42,
-        "image": "/imgs/Shorts/Sport gray short.jpg"
+        "image": "https://i.imgur.com/yQrqi2U.jpg"
       },
       {
         "name": "Shorts deportivos Naranjas",
         "description": "Perfectos para hacer ejecicio ",
         "price": 55.35,
-        "image": "/imgs/Shorts/Sport short.jpg"
+        "image": "https://i.imgur.com/M5DMVvh.jpg"
       },
       {
         "name": "Shorts Con Cuadros",
         "description": "Siempre lista y elegante",
         "price": 36.62,
-        "image": "/imgs/Shorts/square shorts.jpg"
+        "image": "https://i.imgur.com/XR0vcTT.jpg"
       }
     ]
   },
@@ -194,37 +194,37 @@
         "name": "Enterizo Azul Claro",
         "description": "Hermoso enterizo color azul cielo",
         "price": 69.9,
-        "image": "/imgs/Enterizo/Enterizo Azul claro.jpg"
+        "image": "https://i.imgur.com/fYuWgLm.jpg"
       },
       {
         "name": "Enterizo Blanco",
         "description": "Hermoso color blanco para que muestres tu paz interior",
         "price": 75.9,
-        "image": "/imgs/Enterizo/Enterizo Blanco.png"
+        "image": "https://i.imgur.com/Sm2egSK.png"
       },
       {
         "name": "Enterizo Rojo",
         "description": "Destaca en la multitud con este enterizo",
         "price": 77.9,
-        "image": "/imgs/Enterizo/Enterizo flores.jpg"
+        "image": "https://i.imgur.com/nXu5xcF.jpg"
       },
       {
         "name": "Enterizo Nocturno",
         "description": "Elegante y comodo a la vez",
         "price": 62.9,
-        "image": "/imgs/Enterizo/Enterizo Negro.jpg"
+        "image": "https://i.imgur.com/CZDlWkD.jpg"
       },
       {
         "name": "Enterizo Nocturno",
         "description": "Desde una salida casual, hasta una cena elegante",
         "price": 99.9,
-        "image": "/imgs/Enterizo/Enterizo Negro2.jpg"
+        "image": "https://i.imgur.com/MYfmhJp.jpg"
       },
       {
         "name": "Enterizo Palmas",
         "description": "Expresa tu amor por las palmas y el mar",
         "price": 78.9,
-        "image": "/imgs/Enterizo/Enterizo Palmeras.png"
+        "image": "https://i.imgur.com/ANqCWIZ.png"
       },
       {
         "name": "Enterizo Rosado",
