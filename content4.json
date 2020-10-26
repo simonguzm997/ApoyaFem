@@ -3,16 +3,16 @@
     "name": "Burgers",
     "products": [
       {
-        "name": "BLUSA CON FAJÓN NEGRA",
-        "description": "Blusa con fajón elaborada en tela Dril Strech",
+        "name": "Blusa Negra manga largas",
+        "description": "Blusa negra de mangas largas perfecta para toda velada",
         "price": 86.29,
-        "image": "https://www.freestorecol.com/wp-content/uploads/2020/08/camisa-negra-600x800.png"
+        "image": "/imgs/Tops/black long slives.jpg"
       },
       {
-        "name": "Mushroom Burger",
-        "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+        "name": "Top Negro con Tiras",
+        "description": "Siente la frescura perfecta para el verano",
         "price": 21.7,
-        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/5/8/0/FN_Melissa-DArabian-Burger_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371616351111.jpeg"
+        "image": "/imgs/Tops/black long slives.jpg"
       },
       {
         "name": "Duck Breast Burger",
